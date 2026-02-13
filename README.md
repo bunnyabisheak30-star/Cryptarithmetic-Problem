@@ -1,6 +1,6 @@
 <h1>ExpNo 8 : Solve Cryptarithmetic Problem,a CSP(Constraint Satisfaction Problem) using Python</h1> 
-<h3>Name: AGNES ALMEIDA M L             </h3>
-<h3>Register Number: 212224060008      </h3>
+<h3>Name: Abisheak A </h3>
+<h3>Register Number:  212224020002     </h3>
 <H3>Aim:</H3>
 <p>
     To solve Cryptarithmetic Problem,a CSP(Constraint Satisfaction Problem) using Python
@@ -22,7 +22,7 @@ For this case it is like this.
               B A L L                         2 4 5 5
              ---------                       ---------
             G A M E S                       0 4 9 1 6
-# Algorithm
+Algorithm
 For this problem, we will define a node, which contains a letter and its corresponding values.<br>
 
 isValid(nodeList, count, word1, word2, word3)<br>
@@ -78,5 +78,3 @@ MORE = 1085<br>
 <hr>
 MONEY = 10652<br>
 <hr>
-<h2>Result:</h2>
-<p> Thus a Cryptarithmetic Problem was solved using Python successfully</p>
